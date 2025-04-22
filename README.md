@@ -23,7 +23,7 @@
    - 数字绘画色彩搭配学习
  
 ## 📸 使用示例
-![Interface Demonstration](https://github.com/Icanitm/Color_picker/blob/main/demo.png)
+![image](demo.png)
 *图示说明：左侧为原始图片取色区域，右侧色轮显示提取颜色的HSL映射位置*
  
 ## ⚠️ 技术说明
@@ -58,7 +58,7 @@ traditional workarounds like WeChat screenshot color extraction have significant
    - Digital painting color scheme studies
  
 ## 📸 Live Demo
-![Interface Demonstration](https://github.com/Icanitm/Color_picker/blob/main/demo.png) 
+![image](demo.png) 
 *Left: Original image sampling area | Right: HSL-mapped color wheel visualization*
  
 ## ⚠️ Technical Specifications
